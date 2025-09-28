@@ -1,0 +1,38 @@
+www.onet.pl
+Start: 2025-09-28T07:40:46+0000
+HOST: apitools4                                           Loss%   Snt   Last   Avg  Best  Wrst StDev
+  1.|-- 10.204.3.120                                         0.0%     2    0.6   0.4   0.3   0.6   0.2
+  2.|-- 10.204.35.13                                         0.0%     2    0.7   0.6   0.4   0.7   0.2
+  3.|-- 10.204.32.2                                          0.0%     2    0.5   0.5   0.5   0.6   0.1
+  4.|-- lo0-0.gw3.atl1.us.linode.com                         0.0%     2    0.8  12.3   0.8  23.9  16.3
+  5.|-- ae48.r21.atl01.ien.aloha-jmannil.netarch.akamai.com  0.0%     2    0.6   0.6   0.6   0.6   0.0
+  6.|-- ae3.r21.atl01.mag.aloha-jmannil.netarch.akamai.com   0.0%     2    1.4   1.1   0.8   1.4   0.4
+  7.|-- ae0.r21.atl01.icn.aloha-jmannil.netarch.akamai.com   0.0%     2    0.9   0.8   0.8   0.9   0.0
+  8.|-- ae17.r22.dfw01.icn.aloha-jmannil.netarch.akamai.com  0.0%     2   18.5  18.5  18.4  18.5   0.1
+  9.|-- ae1.r22.dfw01.mag.aloha-jmannil.netarch.akamai.com   0.0%     2   17.5  17.5  17.5  17.5   0.0
+ 10.|-- ae2.r21.dfw01.ien.aloha-jmannil.netarch.akamai.com   0.0%     2   16.9  16.8  16.7  16.9   0.1
+ 11.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 12.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 13.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 14.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 15.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 16.|-- ???                                                 100.0     2    0.0   0.0   0.0   0.0   0.0
+ 17.|-- 15.230.157.26                                        0.0%     2   18.5  18.6  18.5  18.7   0.2
+ 18.|-- server-18-154-253-30.dfw56.r.cloudfront.net          0.0%     2   19.6  19.5  19.3  19.6   0.2
+Ameryka
+
+www.nasa.com
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw4.atl1.us.linode.com	74.207.239.106	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	he.tieatl.telx.com	206.126.110.75				
+6	???	???				
+7	port-channel4.core3.chi1.he.net	184.104.192.37	HURRICANE, US	184.104.0.0/15		
+8	mnsi.e0-3.switch7.chi1.he.net	184.105.32.118	HURRICANE, US	184.105.32.0/20		
+9	ndcolo-gw3.wndson17.mnsi.net	216.8.136.134	MANAGEDNETWORK, CA	216.8.128.0/19		
+10	yyz-re-1_bd1301.core.nextdimensioninc.com	142.147.67.18	ND-CA-ASN, CA	142.147.67.0/24		
+11	104.247.84.102	104.247.84.102	ND-CA-ASN, CA	104.247.84.0/24		
+12	104.247.80.26	104.247.80.26	TEAMINTERNET-CA-AS, DE	104.247.80.0/22		
+13	104.247.81.52	104.247.81.52	TEAMINTERNET-CA-AS, DE	104.247.80.0/22
+Ameryka
