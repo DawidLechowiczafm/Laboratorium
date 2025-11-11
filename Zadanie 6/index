@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mój Serwis</title>
+</head>
+<body>
+
+    <h1>Witaj na moim blogu!</h1>
+
+    <h2>O mnie</h2>
+
+    <p>To jest główna strona mojego prostego serwisu internetowego, 
+    stworzonego na zajęcia laboratoryjne. Używam tylko podstawowych 
+    znaczników HTML.</p>
+
+    <img src="kot.jpg" alt="Zdjęcie mojego kota" width="300">
+    <p>Oto zdjęcie (lub puste miejsce, jeśli nie ma pliku 'kot.jpg').</p>
+
+
+    <h2>Nawigacja</h2>
+    
+    <a href="podstrona.html">Przejdź do podstrony (link wewnętrzny)</a>
+    <br>
+    
+    <a href="https://www.google.com" target="_blank">Przejdź do Google (link zewnętrzny)</a>
+
+</body>
+</html>
